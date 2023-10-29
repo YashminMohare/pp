@@ -1,0 +1,130 @@
+\documentclass{article}
+\usepackage{graphicx}
+
+\title{\textbf{Shri Govindram Seksaria Institute of technology Indore (M.P.)}}
+\date{29 October 2023}
+\author{\textbf{Yashmin Mohare}}
+\begin{document}
+\maketitle
+ \centering
+ \includegraphics[width=3cm]{1.png}
+\end{figure}
+\subsection*{\textbf{\textit{Programming Practices : Mini Project(Jarvis )}}}
+\subsection*{\textbf{\textit{https://github.com/yogeshsahu0582/JackPython}}}
+\vspace{2mm}
+\hline \vspace{3mm}
+\subsection*{Objectives}
+\vspace{2mm}
+\begin{enumerate}
+ \item To develop an AI-powered assistant, named Jarvis, capable of automating tasks, providing personalized recommendations, and enhancing user productivity in a variety of contexts, such as home automation, healthcare, or business operations.
+ \item In some fictional depictions, Jarvis is a smart home AI that manages daily tasks and household functions. One of its objectives could be to optimize home automation, making life more convenient for its users by controlling appliances, providing weather updates, and managing schedules.
+\vspace{6mm}
+\subsection*{Technology Used}
+\vspace{4mm}
+\begin{enumerate}
+\vspace{}
+\choices Python
+ \vspace{5mm} \hline{}
+
+ \vspace{10mm} 
+\subsection*{Modules For Install}
+\vspace{2mm}
+
+\begin{enumerate}
+\vspace{}
+\choices
+\item pip install pyttsx3
+\item pip install webbrowser
+\item pip install os
+\item pip install SpeechRecognition
+\item pip install Microphone
+\item pip install Pillow
+\item pip install wikipedia
+\item pip install Pillow-PIL or PIL
+ \vspace{10mm} 
+\vspace{1mm}
+\end{enumerate}
+
+\subsection*{Purpose}
+\vspace{4mm}
+\begin{enumerate}
+Virtual Assistant: A Jarvis-like AI can serve as a virtual assistant, helping users with tasks such as setting reminders, managing schedules, answering questions, and providing information or recommendations.
+ \vspace{5mm}
+Home Automation: In a smart home context, Jarvis can automate various tasks, such as controlling lighting, temperature, security systems, and home entertainment devices to enhance convenience and energy efficiency.
+ \vspace{5mm}
+Entertainment: Jarvis-like AI can enhance the entertainment experience by suggesting movies, music, or books, and even creating personalized playlists or content recommendations.
+\end{enumerate}
+\vspace{3mm}
+
+\vspace{4mm}
+
+
+\hline{}
+\subsection*{Scope}
+\vspace{6mm}
+\begin{enumerate}
+ \item Personal Assistant: A Jarvis AI can serve as a comprehensive personal assistant, managing tasks such as scheduling, reminders, and providing information on demand.
+
+ \item Smart Home Automation: It can control and automate various functions within a smart home, including lighting, temperature, security, entertainment systems, and more.
+
+ \item Voice-controlled Device Integration: Jarvis can integrate with and control various voice-controlled devices like smart speakers, home appliances, and IoT devices.
+
+ \item Data Analysis and Insights: In a business context, it can process and analyze data to provide insights, make data-driven decisions, and improve operations.
+
+ \item Natural Language Processing: Jarvis can be designed to understand and generate human-like text, making it useful for tasks like content creation, translation, and customer support chatbots.
+
+ \item Voice Recognition and Commands: It can recognize and respond to voice commands for various tasks, from making calls and sending messages to playing music or finding information.
+
+ \item Security and Surveillance: Jarvis can monitor and alert users to potential security threats or incidents, whether at home or in a corporate setting.
+
+ \item Health and Wellness: It can provide information and guidance on health and wellness topics, helping users maintain a healthy lifestyle.
+
+ \item Education and Tutoring: Jarvis can serve as a virtual tutor, assisting with homework, explaining concepts, and providing personalized learning experiences.
+
+ \item Content Recommendations: It can offer recommendations for movies, music, books, news, and other forms of entertainment based on user preferences and behavior.
+
+ \item Accessibility Features: Jarvis can assist individuals with disabilities by providing accessibility features such as text-to-speech, speech recognition, and screen reading.
+
+ \item Business Applications: In the business world, it can streamline operations, assist with customer service, and automate repetitive tasks to improve efficiency.
+
+ \item Research and Data Retrieval: For researchers and professionals, Jarvis can assist with information retrieval, perform literature reviews, and generate reports.
+
+ \item Language Translation and Interpretation: It can translate languages and serve as an interpreter for international communication.
+
+ \item Emergency Assistance: Jarvis can be programmed to provide emergency information and guidance during critical situations.
+\end{enumerate}
+ \vspace{6mm}
+ \hline{}
+
+
+
+
+
+\vspace{1cm}
+\vspace{2mm}
+\section*{\textbf{Output}}
+\vspace{3mm}
+ \centering
+ \includegraphics[width=8.8cm]{op.png}
+\vspace{10mm} \hline{}
+ \hline{}
+\section*{\textbf{Debugging}}
+\vspace{8mm}
+ \centering
+ \includegraphics[width=8.8cm]{db.png}
+\vspace{8mm}
+ \centering
+ \includegraphics[width=8.8cm]{dbing.png}
+ \vspace{8mm}
+\vspace{}
+ \hline{}
+\section*{\textbf{Profiling}}
+\vspace{8mm}
+ \centering
+ \includegraphics[width=8.8cm]{p1.png}
+\vspace{8mm}
+ \centering
+ \includegraphics[width=8.8cm]{p2.png}
+\vspace{8mm}
+
+\end{document}
